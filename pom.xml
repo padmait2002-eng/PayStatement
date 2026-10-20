@@ -10,6 +10,7 @@
         <module>services</module>
         <module>App</module>
     </modules>
+
     <properties>
         <java.version>21</java.version>
         <spring-boot.version>4.1.1</spring-boot.version>
